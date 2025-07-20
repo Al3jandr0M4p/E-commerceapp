@@ -1,0 +1,5 @@
+
+# ignored directory 'env' and '.env' files
+env
+.env.*
+*.env
