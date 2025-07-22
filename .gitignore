@@ -3,3 +3,10 @@
 env
 .env.*
 *.env
+
+
+# ignored pycache directories
+__pycache__
+
+# ignored database file
+*.sql
